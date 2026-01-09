@@ -75,7 +75,7 @@ El proyecto maneja **stock**, **ventas**, **validaciones** y **reportes**, y est
 
 ---
 
-## 📘 Documentación con Swagger
+## Documentación con Swagger
 
   Una vez iniciado el proyecto, se puede acceder a la documentación en:
   http://localhost:3000/api
